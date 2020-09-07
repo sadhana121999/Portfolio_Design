@@ -1,21 +1,22 @@
 {
   "files": {
     "main.css": "/Portfolio_Design/static/css/main.3c9a944c.chunk.css",
-    "main.js": "/Portfolio_Design/static/js/main.4c2f84e5.chunk.js",
-    "main.js.map": "/Portfolio_Design/static/js/main.4c2f84e5.chunk.js.map",
+    "main.js": "/Portfolio_Design/static/js/main.72ff6038.chunk.js",
+    "main.js.map": "/Portfolio_Design/static/js/main.72ff6038.chunk.js.map",
     "runtime-main.js": "/Portfolio_Design/static/js/runtime-main.02da46a6.js",
     "runtime-main.js.map": "/Portfolio_Design/static/js/runtime-main.02da46a6.js.map",
     "static/css/2.829c9cb5.chunk.css": "/Portfolio_Design/static/css/2.829c9cb5.chunk.css",
-    "static/js/2.8418f3a9.chunk.js": "/Portfolio_Design/static/js/2.8418f3a9.chunk.js",
-    "static/js/2.8418f3a9.chunk.js.map": "/Portfolio_Design/static/js/2.8418f3a9.chunk.js.map",
+    "static/js/2.b5c7786a.chunk.js": "/Portfolio_Design/static/js/2.b5c7786a.chunk.js",
+    "static/js/2.b5c7786a.chunk.js.map": "/Portfolio_Design/static/js/2.b5c7786a.chunk.js.map",
     "index.html": "/Portfolio_Design/index.html",
-    "precache-manifest.12249dddf254952618e3af9823df2c3b.js": "/Portfolio_Design/precache-manifest.12249dddf254952618e3af9823df2c3b.js",
+    "precache-manifest.a9a6fc677c7421eb55c2aee1bfb67a34.js": "/Portfolio_Design/precache-manifest.a9a6fc677c7421eb55c2aee1bfb67a34.js",
     "service-worker.js": "/Portfolio_Design/service-worker.js",
     "static/css/2.829c9cb5.chunk.css.map": "/Portfolio_Design/static/css/2.829c9cb5.chunk.css.map",
     "static/css/main.3c9a944c.chunk.css.map": "/Portfolio_Design/static/css/main.3c9a944c.chunk.css.map",
-    "static/js/2.8418f3a9.chunk.js.LICENSE.txt": "/Portfolio_Design/static/js/2.8418f3a9.chunk.js.LICENSE.txt",
+    "static/js/2.b5c7786a.chunk.js.LICENSE.txt": "/Portfolio_Design/static/js/2.b5c7786a.chunk.js.LICENSE.txt",
     "static/media/dash (1).png": "/Portfolio_Design/static/media/dash (1).8488b60c.png",
     "static/media/evverest.png": "/Portfolio_Design/static/media/evverest.3da49c68.png",
+    "static/media/hap.png": "/Portfolio_Design/static/media/hap.16d46c61.png",
     "static/media/ingen.png": "/Portfolio_Design/static/media/ingen.746076c7.png",
     "static/media/kalp.png": "/Portfolio_Design/static/media/kalp.8f7903e7.png",
     "static/media/maaya.png": "/Portfolio_Design/static/media/maaya.7f1310c1.png",
@@ -26,8 +27,8 @@
   "entrypoints": [
     "static/js/runtime-main.02da46a6.js",
     "static/css/2.829c9cb5.chunk.css",
-    "static/js/2.8418f3a9.chunk.js",
+    "static/js/2.b5c7786a.chunk.js",
     "static/css/main.3c9a944c.chunk.css",
-    "static/js/main.4c2f84e5.chunk.js"
+    "static/js/main.72ff6038.chunk.js"
   ]
 }
